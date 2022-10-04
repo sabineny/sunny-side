@@ -1,0 +1,198 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.one{
+    background-image: url('image-header.jpg');
+    /* padding-left: 800px; */
+    /* background-position: center; */
+    background-size: cover;
+    
+    height: 100vh;
+    margin: auto;
+}
+.one label{
+    margin-left: 8px;
+    color: aliceblue;
+    font-weight: 60px;
+}
+
+.navbar ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+    padding: 1px 20px;
+    color: aliceblue;
+    
+}
+.navbar ul button{
+    border-radius: 7px;
+    color: aliceblue;
+    background-color: rgb(46, 219, 219);
+    border: none;
+    
+}
+.navbar ul li{
+    padding: 5px 20px;
+
+}
+.h{
+    text-align: center;
+    color: aliceblue;
+    
+
+}
+img{
+    margin-left: 640px;
+    margin-top: 230px;
+}
+.right{
+    background-image: url(image-transform.jpg);
+    width: 50%;
+    height: 80vh;  
+
+}
+.left{
+    margin-top: 80px;
+    width: 50%;
+    height: 80vh;
+    text-align: center;
+}
+.two{
+    display: flex;
+    padding: 0px;
+    margin: 0px;
+}
+.left1{
+    background-image: url(image-stand-out.jpg);
+    width: 100%;
+    height: 83vh; 
+    
+
+}
+.right1{
+    width: 100%;
+    height: 83vh;  
+    text-align: center;
+}
+.three{
+    display: flex;
+    margin-top: 0px;
+    
+}
+.left2{
+    background-image: url(image-graphic-design.jpg);
+    width: 100%;
+    height: 83vh;  
+    background-repeat: no-repeat;
+    
+}
+.right2{
+    background-image: url(image-photography.jpg);
+    width: 100%;
+    height: 83vh; 
+    background-repeat: no-repeat;
+}
+.four{
+    display: flex;
+}
+.left2 h3 p{
+    text-align: center;
+    padding-top: 200px;
+    
+}
+.right2 h3,p{
+    text-align: center;
+    
+}
+h3{
+    text-align: center;
+    color: gray;
+    margin-top: 40px;
+}
+.five img{
+    margin-top: 5px;
+    margin-left: 100px;
+    border-radius: 300px;
+    width: 70px;
+    
+}
+.pic1 p{
+    text-align:left;
+    margin-left: 15px;
+    text-align: center;
+}
+.pic1 h3{
+    text-align: center;
+    color: black;
+}
+.pic2 p{
+    text-align:left;
+    margin-left: 15px;
+    text-align: center;
+}
+.pic2 h3{
+    text-align: center;
+    color: black;
+}
+.pic3 h3{
+    text-align: center;
+    color: black;
+}
+.pic3 p{
+    text-align:left;
+    margin-left: 15px;
+    text-align: center;
+}
+.five{
+    display: flex;
+    gap: 100px;
+    margin-left: 50px;
+    margin-top: 100PX;
+}
+.six img{
+    margin-top: 75px;
+    margin-left: 0px;
+    width: 318px;
+}
+.six{
+    display: flex;
+    
+    
+    
+}
+.seven{
+    background-color: rgb(164, 215, 243);
+    width: 100%;
+    height: 80vh;
+    display: inline-block;
+}
+.seven h3{
+    padding-top: 40px;
+    
+}
+.bottom ul{
+    display: flex;
+    margin-left: 500px;
+    margin-top: 70px;
+    list-style-type: none;
+    gap: 70px;
+    text-decoration: none;
+}
+
+.ft img{
+    margin-left: 230px;
+    
+}
+.bottom a:hover{
+color: aliceblue;
+}
+.ft a:hover{
+color: aliceblue;
+}
+.ft{
+    display: flex;
+    list-style-type: none;
+    text-decoration: none;
+}
